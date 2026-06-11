@@ -1,4 +1,4 @@
-# Cybersecurity Incident Response & Wazuh SIEM/XDR Lab
+## Cybersecurity Incident Response & Wazuh SIEM/XDR Lab
 
 This repository contains multiple cybersecurity laboratory reports and investigation exercises completed during practical training activities.
 
